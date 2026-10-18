@@ -1,2 +1,3 @@
 # Paliwal
-this is my first GIT repository
+this is my first GIT Repository.
+Author - Priyanshu Paliwal
